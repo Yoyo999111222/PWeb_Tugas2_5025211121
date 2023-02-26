@@ -8,4 +8,4 @@ Kelas : Pemrograman Web A
 
 Tahun Ajaran : 2022/2023 (Genap)
 
-Link Website : 
+Link Website : simplerestauranttt.netlify.app
